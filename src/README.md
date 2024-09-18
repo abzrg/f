@@ -1,2 +1,3 @@
 - `hello_world`
 - `variables`
+- `array_and_strings`
