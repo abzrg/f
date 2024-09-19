@@ -2,3 +2,4 @@
 - `variables`
 - `array_and_strings`
 - `operators_and_flow_control`
+- `organising_code_structure`
